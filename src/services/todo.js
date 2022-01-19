@@ -8,17 +8,17 @@ export function getAll() {
     return [
         {
             id: 1,
-            text: 'Learn Javascript',
-            completed: false
+            text: 'complete my task on browse jobs',
+            completed: true
         },
         {
             id: 2,
-            text: 'Learn React',
+            text: 'at 2:00 start my task on test endpoint on filter job',
             completed: false
         },
         {
             id: 3,
-            text: 'Build a React App',
+            text: 'Eat lunch by 3:30',
             completed: false
         }
     ]
